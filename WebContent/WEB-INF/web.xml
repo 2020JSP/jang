@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+<<<<<<< HEAD
   <display-name>pro08</display-name>
   
   <context-param>
@@ -14,4 +15,15 @@
 		<param-name>menu_goods</param-name>
 		<param-value>상품조회  상품등록 상품수정 상품삭제</param-value>
 	</context-param>
+=======
+  <display-name>pro07</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+>>>>>>> 4963ca32bd36027bd724ca742e491f4ba916d57a
 </web-app>
